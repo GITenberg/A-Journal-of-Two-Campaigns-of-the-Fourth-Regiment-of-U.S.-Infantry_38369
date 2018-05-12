@@ -1,0 +1,29 @@
+_repo: A-Journal-of-Two-Campaigns-of-the-Fourth-Regiment-of-U.S.-Infantry_38369
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: Walker, Adam
+    gutenberg_agent_id: '39454'
+    url: http://www.gutenberg.org/2009/agents/39454
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38369'
+  lccn: '02017440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Infantry Division, 4th'
+- !lcsh 'United States -- History -- War of 1812 -- Campaigns'
+- !lcsh 'United States -- History -- War of 1812 -- Personal narratives'
+- !lcc 'E300'
+title: "A Journal of Two Campaigns of the Fourth Regiment of U.S. Infantry\r\nIn the\
+  \ Michigan and Indiana Territories, Under the Command of Col. John P. Boyd, and\
+  \ Lt. Col. James Miller During the Years 1811, & 12."
+url: http://www.gutenberg.org/ebooks/38369
