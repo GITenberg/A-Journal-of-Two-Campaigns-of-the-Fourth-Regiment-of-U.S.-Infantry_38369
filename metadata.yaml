@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38369#A-Journal-of-Two-Campaigns-of-the-Fourth-Regiment-of-U.S.-Infantry
 gutenberg_issued: '2011-12-26'
 gutenberg_type: Text
 identifiers:
